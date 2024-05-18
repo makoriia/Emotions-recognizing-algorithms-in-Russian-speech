@@ -8,6 +8,7 @@ However, the task of recognizing emotions in speech is a difficult task, due to 
 
 The study was conducted on two datasets: RAVDESS and Dusha. The experimental results showed that the effectiveness of the models strongly depends on the specific data set. The CNN model performed best on the RAVDESS dataset, while the Conformer model proved to be the most effective on the Dusha dataset. The HuBERT model demonstrated average results on both datasets.
 
-	       CNN	  HuBERT	Conformer
-RAVDESS	0,89	  0,75	  0,75
-Dusha	  0,73	  0,77	  0,83
+|   | CNN | HuBERT | Conformer |
+| ------------- | ------------- |  ------------- | ------------- |
+| RAVDESS  | 0,89 |  0,75  |  0,75  |
+| Dusha  | 0,73  |  0,77 |  0,83  |
